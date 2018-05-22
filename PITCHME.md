@@ -15,3 +15,9 @@ ___
 --- 
 ### Instalando o Pentaho
 
+---
+### Referências
+
+https://help.pentaho.com/Documentation/7.1/Installation
+
+https://alexssandroos.github.io/blog/install-jdk-jre-oracle
