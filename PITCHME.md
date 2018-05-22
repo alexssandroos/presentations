@@ -1,17 +1,17 @@
-# Oficina Pentaho
+## Oficina Pentaho
 ___
-## Mergulhando no BI com Software Livre
+### Mergulhando no BI com Software Livre
 
 ---
-## Quem sou eu 
+### Quem sou eu 
 
 ---
-## Conhecendo nosso projeto
+### Conhecendo nosso projeto
 
 --- 
-## Configurando o ambiente
+### Configurando o ambiente
 
 
 --- 
-## Instalando o Pentaho
+### Instalando o Pentaho
 
