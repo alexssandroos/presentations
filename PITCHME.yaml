@@ -1,2 +1,3 @@
-background : http://uniamerica.br/wp-content/uploads/2014/06/background-2.jpg
 theme : moon
+theme-override : assets/css/custom.css
+footnote : "Oficina Pentaho | Mergulhando no BI com Software Livre"
