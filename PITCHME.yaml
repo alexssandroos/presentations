@@ -1,4 +1,5 @@
 theme : simple
 theme-override : assets/css/custom.css
+logo : http://lframos.com.br/wp-content/uploads/2016/03/pentaho-hgc-logo.png
 highlight : atom-one-light
 footnote : "Oficina Pentaho | Mergulhando no BI com Software Livre"
