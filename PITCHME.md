@@ -4,7 +4,7 @@ ___
 
 ---
 ### Quem sou eu 
----?image=https://leaderonomics.com/wp-content/uploads/2017/04/1807658-1-600x470.jpg&position=left&size=60%
+---?image=https://leaderonomics.com/wp-content/uploads/2017/04/1807658-1-600x470.jpg&position=left&size=50% 100%
 lorem ipsum
 ---
 ### Conhecendo nosso projeto
