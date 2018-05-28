@@ -11,7 +11,7 @@ Lorem ipsum vehicula scelerisque nisl non magna elit lectus varius ut, fringilla
 ### Conhecendo nosso projeto
 
 <div class="left">
----?image=https://leaderonomics.com/wp-content/uploads/2017/04/1807658-1-600x470.jpg&position=left&size=50% 80%
+---?image=https://leaderonomics.com/wp-content/uploads/2017/04/1807658-1-600x470.jpg&position=left&size=35% 65%
 </div>
 
 <div class="right">
