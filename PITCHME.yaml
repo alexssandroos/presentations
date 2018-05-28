@@ -1,4 +1,4 @@
-theme : moon
+theme : simple
 theme-override : assets/css/custom.css
 highlight : atom-one-light
 footnote : "Oficina Pentaho | Mergulhando no BI com Software Livre"
