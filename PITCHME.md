@@ -10,7 +10,7 @@ Lorem ipsum vehicula scelerisque nisl non magna elit lectus varius ut, fringilla
 ---
 ### Conhecendo nosso projeto
 
-<div class="eventstorming">
+<div class="left">
 ---?image=https://leaderonomics.com/wp-content/uploads/2017/04/1807658-1-600x470.jpg&position=left&size=50% 100%
 </div>
 
