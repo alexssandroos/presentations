@@ -12,8 +12,7 @@ ___
 <div class="right">
 <p><b>Entusiasta resolvedor de problemas! :) </b></p>
 <p>Formado em Analise de Sistemas, MBA em BI, Especialização em Data Science em andamento.</p> 
-<p>Atualmente Analista de Sistemas na Cagece</p>    
-<p>Casado, pai da Esther, Nerd por natureza, apaixonado por ficção cientifica, tecnologia... enfim mais coisas do que tenho horas no dia pra fazer. </p>
+<p>Casado, pai da Esther, Nerd por natureza, apaixonado por ficção cientifica, tecnologia... enfim mais coisas do que tenho horas no dia pra fazer.</p>
 </div>
 
 ---
