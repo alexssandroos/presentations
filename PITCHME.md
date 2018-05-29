@@ -21,7 +21,7 @@ ___
 ---
 ### CTOOLS | Dashboards 
 
-![Painel CTOOLS](https://3.bp.blogspot.com/-TzWIshmKCIs/VRlnJv1y61I/AAAAAAAAAig/SbDofijnyuQ/s1600/ctoo.jpg&size=80% 80%) 
+![Painel CTOOLS](https://3.bp.blogspot.com/-TzWIshmKCIs/VRlnJv1y61I/AAAAAAAAAig/SbDofijnyuQ/s1600/ctoo.jpg) 
 
 --- 
 ### Configurando o ambiente
