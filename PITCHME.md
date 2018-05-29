@@ -19,6 +19,12 @@ ___
 ### Conhecendo nosso projeto
 
 ---
+### Business Intelligence
+
+De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na coleta dos dados presentes nas diversas fontes disponíveis, organização, análise , conversão em conhecimento e compartilhamento provendo suporte as decisões importantes para a organização.
+
+---?image=http://ecommerce.neoatlas.com.br/wp-content/uploads/2018/01/business-intelligence2.jpg
+
 ### CTOOLS | Dashboards 
 
 ![Painel CTOOLS](https://3.bp.blogspot.com/-TzWIshmKCIs/VRlnJv1y61I/AAAAAAAAAig/SbDofijnyuQ/s1600/ctoo.jpg&size=80% 80%) 
