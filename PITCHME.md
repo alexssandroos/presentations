@@ -20,7 +20,7 @@ ___
 
 ---
 ### CTOOLS | Dashboards 
----?image=https://3.bp.blogspot.com/-TzWIshmKCIs/VRlnJv1y61I/AAAAAAAAAig/SbDofijnyuQ/s1600/ctoo.jpg&size=80% 80% 
+?image=https://3.bp.blogspot.com/-TzWIshmKCIs/VRlnJv1y61I/AAAAAAAAAig/SbDofijnyuQ/s1600/ctoo.jpg&size=80% 80% 
 
 --- 
 ### Configurando o ambiente
