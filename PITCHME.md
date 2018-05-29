@@ -1,3 +1,4 @@
+---?image=http://ecommerce.neoatlas.com.br/wp-content/uploads/2018/01/business-intelligence2.jpg&opacity=50
 ## Oficina Pentaho
 ___
 ### Mergulhando no BI com Software Livre
@@ -19,7 +20,7 @@ ___
 ### Conhecendo nosso projeto
 
 
----?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=40
+---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=50
 ### Business Intelligence
 
 De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na coleta dos dados presentes nas diversas fontes disponíveis, organização, análise , conversão em conhecimento e compartilhamento provendo suporte as decisões importantes para a organização.
