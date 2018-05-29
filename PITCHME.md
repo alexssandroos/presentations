@@ -59,6 +59,19 @@ Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto d
 ### Instalando o Pentaho
 
 ---
+### Onde Encontrar Ajuda
+
+Lista Pentaho Brasil Yahoo(2.063 Membros)
+https://br.groups.yahoo.com/neo/groups/pentahobr/info
+
+Telegram 
+https://t.me/pentaho
+
+Forum Oficial
+https://forums.pentaho.com/
+
+
+---
 ### Referências
 
 https://help.pentaho.com/Documentation/7.1/Installation
