@@ -36,6 +36,16 @@ Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto d
 ---
 ### Conhecendo nosso projeto
 
+- Criar fluxo de ETL e pupular um DataMart
+- Modelar o cubo OLAP 
+- Instalar e criar analises no Servidor de BI
+- Criar um relatorio e publica-lo no servidor
+- Criar um Dashboard de vendas
+
+---
+### Primeiros passos
+- Instalar a JDK 1.8 e configurar as variaveis de ambiente.
+- Baixar os executaveis no [Source Forge](sourceforge.net/projects/pentaho)
 ---
 ### CTOOLS | Dashboards 
 
