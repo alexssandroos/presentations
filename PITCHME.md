@@ -1,29 +1,39 @@
----?image=http://ecommerce.neoatlas.com.br/wp-content/uploads/2018/01/business-intelligence2.jpg&opacity=50
 ## Oficina Pentaho
 ___
 ### Mergulhando no BI com Software Livre
 
 ---
 ### Quem sou eu 
-
 <div class="left">
 ---?image=assets/img/alexssandroos_1505174890_893.jpg&position=left&size=35% 65%
 </div>
-
 <div class="right">
 <p><b>Entusiasta resolvedor de problemas! :) </b></p>
 <p>Formado em Analise de Sistemas, MBA em BI, Especialização em Data Science em andamento.</p> 
 <p>Casado, pai da Esther, Nerd por natureza, apaixonado por ficção cientifica, tecnologia... enfim mais coisas do que tenho horas no dia pra fazer.</p>
 </div>
 
----
-### Conhecendo nosso projeto
-
-
 ---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=50
 ### Business Intelligence
 
 De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na coleta dos dados presentes nas diversas fontes disponíveis, organização, análise , conversão em conhecimento e compartilhamento provendo suporte as decisões importantes para a organização.
+
+### Pentaho 
+
+Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto de BI/Big Data provendo suporte a fase de ETL, Analises Olap, Relatorios, Datamining e Dashboards.  Entre os softwares da suite estão :
+
+- Pentaho Data-Integration(ETL)
+- Pentaho Schema Workbench(Criacao cubos)
+- Pentaho Report Designer(Relatorios)
+- Pentaho BI Server(Plataforma web)
+- Weka (Mineração de dados)
+- Ctools(Criação de Dashboards)
+- Hadoop Shims
+- App Builder
+- Dentre outros.
+
+---
+### Conhecendo nosso projeto
 
 ---
 ### CTOOLS | Dashboards 
