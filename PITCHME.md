@@ -35,6 +35,11 @@ Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto d
 
 ---
 ### Conhecendo nosso projeto
+@div[left-50]
+<br>
+![BI](https://pragmaticworks.com/portals/1/Consulting/Consulting-Laptop-Icons-Business-Intelligence.png)
+@divend
+@div[right-50]
 @ul[brighten]
 - Criar fluxo de ETL e pupular um DataMart
 - Modelar o cubo OLAP 
@@ -42,6 +47,8 @@ Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto d
 - Criar um relatorio e publica-lo no servidor
 - Criar um Dashboard de vendas
 @ulend
+@divend
+
 ---
 ### Primeiros passos
 - Instalar a JDK 1.8 e configurar as variaveis de ambiente.
