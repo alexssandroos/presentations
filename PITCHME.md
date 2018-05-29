@@ -18,6 +18,7 @@ ___
 
 De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na coleta dos dados presentes nas diversas fontes disponíveis, organização, análise , conversão em conhecimento e compartilhamento provendo suporte as decisões importantes para a organização.
 
+---
 ### Pentaho 
 
 Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto de BI/Big Data provendo suporte a fase de ETL, Analises Olap, Relatorios, Datamining e Dashboards.  Entre os softwares da suite estão :
