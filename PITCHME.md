@@ -46,6 +46,8 @@ Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto d
 ### Primeiros passos
 - Instalar a JDK 1.8 e configurar as variaveis de ambiente.
 - Baixar os executaveis no [Source Forge](sourceforge.net/projects/pentaho)
+- Baixar jar's dos SGBD's
+
 ---
 ### CTOOLS | Dashboards 
 
