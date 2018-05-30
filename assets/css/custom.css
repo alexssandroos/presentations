@@ -19,6 +19,11 @@
   font-size: 50% !important;
 }
 
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
 .reveal p span.slide-title {
   color: white;
   background: #132029;
