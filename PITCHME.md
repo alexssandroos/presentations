@@ -104,18 +104,37 @@ Onde a magica acontece ;)
 - Dando um tapa no visual.
 @ulend
 
+---
+### CTOOLS
+
+Criando Dashboards de maneira altamentes customizavel.
+
+@fa[arrow-down]
+
++++
+### To-do List
+
+@ul[brighten]
+- Conhecendo o CDE
+- Criando um grafico de barras 
+- Adicionando filtros ao Painel
+@ulend
 
 ---
-### CTOOLS | Dashboards 
+### Pentaho Report Designer
 
-![Painel CTOOLS](https://3.bp.blogspot.com/-TzWIshmKCIs/VRlnJv1y61I/AAAAAAAAAig/SbDofijnyuQ/s1600/ctoo.jpg&size=80% 80%) 
+Relatorios analiticos no servidor.
 
---- 
-### Configurando o ambiente
+@fa[arrow-down]
 
++++
+### To-do List
 
---- 
-### Instalando o Pentaho
+@ul[brighten]
+- Escolhendo um tema
+- Carregando os dados 
+- Adicionando filtros ao relatorio
+@ulend
 
 ---
 ### Onde Encontrar Ajuda
@@ -134,6 +153,9 @@ https://forums.pentaho.com/
 @fa[envelope-square] - alexssandroos@yahoo.com.br
 <br>
 @fa[linkedin] | @fa[github] | @fa[twitter-square] \alexssandroos
+
+---
+### Muito Obrigado :)
 
 ---
 ### Referências
