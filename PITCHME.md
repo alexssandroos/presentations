@@ -71,6 +71,21 @@ Extracao transformacao e carga
 - Carregar dimensoes para o SGBD
 @ulend
 
+### Pentaho Schema Workbench
+
+Criando e modelando cubos para OLAP
+
+@fa[arrow-down]
+
++++
+### To-do List
+
+@ul[brighten]
+- Definindo extrutura Analitica (Star schema)
+- Modelando cubo de vendas
+- Publicando no BI Server
+@ulend
+
 ---
 ### CTOOLS | Dashboards 
 
