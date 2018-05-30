@@ -152,7 +152,7 @@ https://forums.pentaho.com/
 ### Contato
 @fa[envelope-square] - alexssandroos@yahoo.com.br
 <br>
-@fa[linkedin] | @fa[github] | @fa[twitter-square] \alexssandroos
+@fa[linkedin] | @fa[github] | @fa[twitter-square] /alexssandroos
 
 ---
 ### Muito Obrigado :)
