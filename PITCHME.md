@@ -128,6 +128,9 @@ https://t.me/pentaho
 Forum Oficial
 https://forums.pentaho.com/
 
+### Contato
+@fa[envelope-square] - alexssandroos@yahoo.com.br
+@fa[linkedin] | @fa[github] | @fa[twitter-square] - alexssandroos
 
 ---
 ### Referências
