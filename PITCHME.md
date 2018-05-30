@@ -88,6 +88,23 @@ Criando e modelando cubos para OLAP
 @ulend
 
 ---
+### Pentaho Business Analytics Server
+
+Onde a magica acontece ;)
+
+@fa[arrow-down]
+
++++
+### To-do List
+
+@ul[brighten]
+- Visualizando o Cubo publicado
+- Melhorando as analises com plugins da communidade.
+- Dando um tapa no visual.
+@ulend
+
+
+---
 ### CTOOLS | Dashboards 
 
 ![Painel CTOOLS](https://3.bp.blogspot.com/-TzWIshmKCIs/VRlnJv1y61I/AAAAAAAAAig/SbDofijnyuQ/s1600/ctoo.jpg&size=80% 80%) 
