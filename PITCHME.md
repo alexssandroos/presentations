@@ -63,6 +63,8 @@ Extracao transformacao e carga
 @fa[arrow-down]
 
 +++
+### To-do List
+
 @ul[brighten]
 - Criar nossa dimensao Temporal
 - Extrair e limpar os dados da sample.
