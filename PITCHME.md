@@ -13,7 +13,7 @@ ___
 <p>Casado, pai da Esther, Nerd por natureza, apaixonado por ficção cientifica, tecnologia... enfim mais coisas do que tenho horas no dia pra fazer.</p>
 </div>
 
----?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=50
+---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=60
 ### Business Intelligence
 
 De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na coleta dos dados presentes nas diversas fontes disponíveis, organização, análise , conversão em conhecimento e compartilhamento provendo suporte as decisões importantes para a organização.
@@ -41,7 +41,7 @@ Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto d
 @divend
 @div[right-50]
 @ul[brighten]
-- Criar fluxo de ETL e pupular um DataMart
+- Criar fluxo de ETL e popular um DataMart
 - Modelar o cubo OLAP 
 - Instalar e criar analises no Servidor de BI
 - Criar um relatorio e publica-lo no servidor
@@ -54,6 +54,20 @@ Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto d
 - Instalar a JDK 1.8 e configurar as variaveis de ambiente.
 - Baixar os executaveis no [Source Forge](sourceforge.net/projects/pentaho)
 - Baixar jar's dos SGBD's
+
+---
+### Pentaho Data Integration
+
+Extracao transformacao e carga 
+
+@fa[arrow-down]
+
++++
+@ul[brighten]
+- Criar nossa dimensao Temporal
+- Extrair e limpar os dados da sample.
+- Carregar dimensoes para o SGBD
+@ulend
 
 ---
 ### CTOOLS | Dashboards 
