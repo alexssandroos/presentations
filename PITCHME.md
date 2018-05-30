@@ -71,6 +71,7 @@ Extracao transformacao e carga
 - Carregar dimensoes para o SGBD
 @ulend
 
+---
 ### Pentaho Schema Workbench
 
 Criando e modelando cubos para OLAP
