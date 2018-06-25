@@ -9,12 +9,14 @@ by: [Aws - What is a Columnar Database?](https://aws.amazon.com/nosql/columnar/?
 
 ---
 ### Requisitos
-
-De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na coleta dos dados presentes nas diversas fontes disponíveis, organização, análise , conversão em conhecimento e compartilhamento provendo suporte as decisões importantes para a organização.
+- Red Hat 5,6/ Suse 11
+- Oracle Linux 6
+- Debian 6 /Ubuntu 12
+- CentOS 5 e 6
 
 ---
 ### Manutenção  
-dbadmin
+Usuário padrão : dbadmin
 
 ---
 ### Otimize Tabelas e Não Consultas
@@ -44,120 +46,6 @@ UNSEGMENTED ALL NODES
 ```
 
 ---
-### Conhecendo nosso projeto
-@div[left-50]
-<br>
-![BI](https://pragmaticworks.com/portals/1/Consulting/Consulting-Laptop-Icons-Business-Intelligence.png)
-@divend
-@div[right-50]
-@ul[brighten]
-- Criar fluxo de ETL e popular um DataMart
-- Modelar o cubo OLAP 
-- Instalar e criar analises no Servidor de BI
-- Criar um relatorio e publica-lo no servidor
-- Criar um Dashboard de vendas
-@ulend
-@divend
-
----
-### Primeiros passos
-- Instalar a JDK 1.8 e configurar as variaveis de ambiente.
-- Baixar os executaveis no [Source Forge](sourceforge.net/projects/pentaho)
-- Baixar jar's dos SGBD's
-
----
-### Pentaho Data Integration
-
-Extracao transformacao e carga 
-
-@fa[arrow-down]
-
-+++
-### To-do List
-
-@ul[brighten]
-- Criar nossa dimensao Temporal
-- Extrair e limpar os dados da sample.
-- Carregar dimensoes para o SGBD
-@ulend
-
----
-### Pentaho Schema Workbench
-
-Criando e modelando cubos para OLAP
-
-@fa[arrow-down]
-
-+++
-### To-do List
-
-@ul[brighten]
-- Definindo extrutura Analitica (Star schema)
-- Modelando cubo de vendas
-- Publicando no BI Server
-@ulend
-
----
-### Pentaho Business Analytics Server
-
-Onde a magica acontece ;)
-
-@fa[arrow-down]
-
-+++
-### To-do List
-
-@ul[brighten]
-- Visualizando o Cubo publicado
-- Melhorando as analises com plugins da communidade.
-- Dando um tapa no visual.
-@ulend
-
----
-### CTOOLS
-
-Criando Dashboards de maneira altamentes customizavel.
-
-@fa[arrow-down]
-
-+++
-### To-do List
-
-@ul[brighten]
-- Conhecendo o CDE
-- Criando um grafico de barras 
-- Adicionando filtros ao Painel
-@ulend
-
----
-### Pentaho Report Designer
-
-Relatorios analiticos no servidor.
-
-@fa[arrow-down]
-
-+++
-### To-do List
-
-@ul[brighten]
-- Escolhendo um tema
-- Carregando os dados 
-- Adicionando filtros ao relatorio
-@ulend
-
----
-### Onde Encontrar Ajuda
-
-Lista Pentaho Brasil Yahoo(2.063 Membros)
-https://br.groups.yahoo.com/neo/groups/pentahobr/info
-
-Telegram 
-https://t.me/pentaho
-
-Forum Oficial
-https://forums.pentaho.com/
-
----
 ### Contato
 @fa[envelope-square] - alexssandroos@yahoo.com.br
 <br>
@@ -170,5 +58,7 @@ https://forums.pentaho.com/
 ### Referências
 
 [HP Vertica Doc 7.1](http://my.vertica.com/docs/Ecosystem/Amazon/HP_Vertica_7.1.x_Vertica_AWS.pdf)
+
+[Requirements Hp Vertica ](https://my.vertica.com/docs/7.0.x/HTML/index.htm#Authoring/InstallationGuide/PlatformRequirementsAndRecommendations.htm%3FTocPath%3DInstallation%2520Guide%7CBefore%2520You%2520Install%2520Vertica%7CPlatform%2520Requirements%2520and%2520Recommendations%7C_____0)
 
 
