@@ -16,6 +16,7 @@ by: [Aws - What is a Columnar Database?](https://aws.amazon.com/nosql/columnar/?
 
 ---
 ### Manutenção  
+
 Usuário padrão : dbadmin
 
 ---
@@ -60,5 +61,6 @@ UNSEGMENTED ALL NODES
 [HP Vertica Doc 7.1](http://my.vertica.com/docs/Ecosystem/Amazon/HP_Vertica_7.1.x_Vertica_AWS.pdf)
 
 [Requirements Hp Vertica ](https://my.vertica.com/docs/7.0.x/HTML/index.htm#Authoring/InstallationGuide/PlatformRequirementsAndRecommendations.htm%3FTocPath%3DInstallation%2520Guide%7CBefore%2520You%2520Install%2520Vertica%7CPlatform%2520Requirements%2520and%2520Recommendations%7C_____0)
+[Optimize Tables Not Queries](https://github.com/jackghm/Vertica/wiki/Optimize-Tables-Not-Queries)
 
 
