@@ -7,26 +7,41 @@ Enquanto um banco de dados relacional é otimizado para armazenar linhas de dado
 
 by: [Aws - What is a Columnar Database?](https://aws.amazon.com/nosql/columnar/?nc1=h_ls)
 
-
----?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=60
-### Business Intelligence
+---
+### Requisitos
 
 De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na coleta dos dados presentes nas diversas fontes disponíveis, organização, análise , conversão em conhecimento e compartilhamento provendo suporte as decisões importantes para a organização.
 
 ---
-### Pentaho 
+### Manutenção  
+dbadmin
 
-Pentaho é uma suite de BI que oferece soluções para as etapas de um projeto de BI/Big Data provendo suporte a fase de ETL, Analises Olap, Relatorios, Datamining e Dashboards.  Entre os softwares da suite estão :
-
-- Pentaho Data-Integration(ETL)
-- Pentaho Schema Workbench(Criacao cubos)
-- Pentaho Report Designer(Relatorios)
-- Pentaho BI Server(Plataforma web)
-- Weka (Mineração de dados)
-- Ctools(Criação de Dashboards)
-- Hadoop Shims
-- App Builder
-- Dentre outros.
+---
+### Otimize Tabelas e Não Consultas
+ - Projeções
+ - Seguimentações
+ - Partições
+ 
+ @fa[arrow-down]
++++
+### Exemplo CREATE
+```sql
+create table schema.tab1
+(
+id int not null,
+campo varchar(2) 
+),
+create projection schema.tab1_p 
+(
+id ENCODING RLE,
+campo
+)
+as 
+select *
+from schema.tab1
+order by 1 
+UNSEGMENTED ALL NODES
+```
 
 ---
 ### Conhecendo nosso projeto
