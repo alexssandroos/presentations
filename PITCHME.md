@@ -1,7 +1,6 @@
-## Oficina Pentaho
+## HP Vertica
 ___
-### Mergulhando no BI com Software Livre
-
+### Banco de Dados Analítico para DW
 ---
 ### Quem sou eu 
 <div class="left">
