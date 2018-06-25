@@ -2,16 +2,11 @@
 ___
 ### Banco de Dados Analítico para DW
 ---
-### Quem sou eu 
-<div class="left">
----?image=assets/img/alexssandroos_1505174890_893.jpg&position=left&size=35% 65%
-</div>
-<div class="right">
-  Alexssandro Oliveira
-<p><b>Entusiasta resolvedor de problemas! :) </b></p>
-<p>Formado em Analise de Sistemas, MBA em BI, Especialização em Data Science em andamento.</p> 
-<p>Casado, pai da Esther, Nerd por natureza, apaixonado por ficção cientifica, tecnologia... enfim mais coisas do que tenho horas no dia pra fazer.</p>
-</div>
+### O Que é Vertica
+Enquanto um banco de dados relacional é otimizado para armazenar linhas de dados, geralmente para aplicativos transacionais, um banco de dados colunar é otimizado para recuperação rápida de colunas de dados, normalmente em aplicativos analíticos. O armazenamento orientado a colunas para tabelas do banco de dados é um fator importante para a performance de consulta analítica, pois ele reduz expressivamente os requisitos gerais de E/S de disco e diminui a quantidade de dados que você precisa carregar do disco.
+
+by: [Aws - What is a Columnar Database?](https://aws.amazon.com/nosql/columnar/?nc1=h_ls)
+
 
 ---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=60
 ### Business Intelligence
@@ -159,6 +154,6 @@ https://forums.pentaho.com/
 ---
 ### Referências
 
-https://help.pentaho.com/Documentation/7.1/Installation
+[HP Vertica Doc 7.1](http://my.vertica.com/docs/Ecosystem/Amazon/HP_Vertica_7.1.x_Vertica_AWS.pdf)
 
-https://alexssandroos.github.io/blog/install-jdk-jre-oracle
+
