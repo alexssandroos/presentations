@@ -1,6 +1,8 @@
-## Oficina Pentaho
+## POWERBI TALKS FORTALEZA
 ___
-### Mergulhando no BI com Software Livre
+### DO BI AO DATA SCIENCE
+
+#### Se lambuzando na sopa de letrinhas
 
 ---
 ### Quem sou eu 
