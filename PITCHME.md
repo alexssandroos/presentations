@@ -55,9 +55,9 @@ Aspirante a Data Science :)
 
 De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na coleta dos dados presentes nas diversas fontes disponíveis, organização, análise , conversão em conhecimento e compartilhamento provendo suporte as decisões importantes para a organização.
 
----
-### BI
-#### Uma questão de sobrêvivencia
+---?image=https://premierlearn.com.br/wp-content/uploads/2016/09/POWER-BI.jpg?&opacity=60
+## BI
+### Uma questão de sobrêvivencia
 
 ---?image=https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/40a4d2f9-4c70-47c7-9143-62f86f20e5d2.jpg&size=80% 80%
 
