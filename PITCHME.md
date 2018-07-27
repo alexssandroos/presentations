@@ -1,4 +1,4 @@
-## POWERBI @color[yellow](TALKS) FORTALEZA
+## POWERBI @css[gold](TALKS) FORTALEZA
 ___
 ### DO BI AO DATA SCIENCE
 
