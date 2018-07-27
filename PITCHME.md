@@ -31,6 +31,11 @@ Aspirante a Data Science :)
 
 @snapend
 
+---
+@snap[north-east]
+@color[#f2c80f](O que temos pra hoje ? )
+@snapend
+
 ---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=40
 ### Business Intelligence
 
