@@ -32,7 +32,7 @@ Aspirante a Data Science :)
 @snapend
 
 ---
-@snap[north-east]
+@snap[north-west]
 @fa[calendar](@color[#f2c80f](O que temos pra hoje ? ))
 @snapend
 
