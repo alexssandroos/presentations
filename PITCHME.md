@@ -110,9 +110,10 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 
 <br>
 
-@size[1.2em](Vamos falar de PowerBI)
+Vamos falar de PowerBI | CurVa de aprenzidado
 
 <br>
+
 @snapend
 
 ![](https://docs.microsoft.com/pt-br/power-bi/media/power-bi-visualization-best-practices/power-bi-page-view-before.png)
