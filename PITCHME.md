@@ -59,6 +59,27 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 ## BI
 ### Uma questão de sobrêvivencia
 
+---
+@snap[north-west]
+
+<br>
+
+@color[#f2c80f](O que não é BI)
+
+<br>
+@snapend
+
+@snap[west]
+@ul
+- Ferramenta
+- Apenas para Gestores 
+- Um monte de graficos jogados na tela
+- Garantia de decisões acertivas
+@ulend
+@snapend
+
+
+
 ---?image=https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/40a4d2f9-4c70-47c7-9143-62f86f20e5d2.jpg&size=80% 80%
 
 @snap[north-east]
@@ -93,3 +114,10 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 
 ---
 ### Muito Obrigado :)
+
+---
+# Referencias
+
+http://cio.com.br/opiniao/2015/04/06/seis-mitos-de-business-intelligence/
+
+
