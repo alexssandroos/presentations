@@ -7,6 +7,9 @@ ___
 #### Se lambuzando na sopa de letrinhas
 ---
 ---?image=assets/img/alexssandroos_1505174890_893.jpg&position=left&size=55% 100% 
+@snap[north-east]
+<h4>Quem sou eu </h4>
+@snapend
 
 #### @size[0.6em](Alexssandro Oliveira)
 
