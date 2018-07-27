@@ -1,4 +1,4 @@
----?image=https://www.peters.com/wp-content/uploads/2017/06/Power-BI-Apps-blog-800x359.png&opacity=40
+---?image=https://www.peters.com/wp-content/uploads/2017/06/Power-BI-Apps-blog-800x359.png&opacity=25
 
 ## POWERBI @color[gold](TALKS) FORTALEZA
 ___
