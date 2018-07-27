@@ -8,9 +8,7 @@ ___
 
 ---
 <div class="left">
-### Quem sou eu 
-  
----?image=assets/img/alexssandroos_1505174890_893.jpg&position=left&size=35% 65%
+---?image=assets/img/alexssandroos_1505174890_893.jpg&size=35% 65%
 </div>
 <div class="right">
   Alexssandro Oliveira
