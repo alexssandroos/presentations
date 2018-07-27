@@ -8,7 +8,7 @@ ___
 
 ---?image=assets/img/alexssandroos_1505174890_893.jpg&position=left&size=40% 80% 
 @snap[north-east]
-<h4>Quem sou eu </h4>
+@color[#01b8aa](Quem Sou Eu)
 @snapend
 
 @snap[east bio]
