@@ -1,6 +1,6 @@
 ---?image=https://www.peters.com/wp-content/uploads/2017/06/Power-BI-Apps-blog-800x359.png&opacity=20
 
-## POWERBI @color[gold](TALKS) FORTALEZA
+## POWERBI @color[f2c80f](TALKS) FORTALEZA
 ___
 ### DO BI AO DATA SCIENCE
 
@@ -8,7 +8,7 @@ ___
 
 ---?image=assets/img/alexssandroos_1505174890_893.jpg&position=left&size=40% 80% 
 @snap[north-east]
-@color[#01b8aa](Quem Sou Eu)
+@color[#f2c80f](Quem Sou Eu)
 @snapend
 
 @snap[east bio]
