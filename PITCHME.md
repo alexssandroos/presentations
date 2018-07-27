@@ -57,7 +57,7 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 
 ---
 
----?image=http://farolbi.com.br/wp-content/uploads/2017/01/5dae5ca4-4a12-48b6-8398-6286fd4ceacd-original.jpeg
+---?image=https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/40a4d2f9-4c70-47c7-9143-62f86f20e5d2.jpg
 
 @snap[north-east]
 @color[#f2c80f](Players de Mercado | Gartner)
