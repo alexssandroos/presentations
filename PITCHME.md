@@ -1,4 +1,4 @@
----?image=https://www.peters.com/wp-content/uploads/2017/06/Power-BI-Apps-blog-800x359.png&opacity=25
+---?image=https://www.peters.com/wp-content/uploads/2017/06/Power-BI-Apps-blog-800x359.png&opacity=20
 
 ## POWERBI @color[gold](TALKS) FORTALEZA
 ___
@@ -7,8 +7,9 @@ ___
 #### Se lambuzando na sopa de letrinhas
 
 ---
-### Quem sou eu 
 <div class="left">
+### Quem sou eu 
+  
 ---?image=assets/img/alexssandroos_1505174890_893.jpg&position=left&size=35% 65%
 </div>
 <div class="right">
