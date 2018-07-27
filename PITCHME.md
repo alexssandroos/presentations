@@ -57,7 +57,7 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 
 ---?image=https://convertingcolors.com/plain-F2C80F.svg
 ## BI
-### @color[white](Uma questão de sobrêvivencia)
+### Uma questão de @color[white](sobrêvivencia)
 
 ---
 @snap[north-west]
