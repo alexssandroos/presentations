@@ -1,4 +1,5 @@
-## POWERBI @css[gold](TALKS) FORTALEZA
+--?image=https://www.peters.com/wp-content/uploads/2017/06/Power-BI-Apps-blog-800x359.png&opacity=40
+## POWERBI @color[gold](TALKS) FORTALEZA
 ___
 ### DO BI AO DATA SCIENCE
 
