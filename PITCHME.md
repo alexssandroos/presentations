@@ -135,6 +135,23 @@ Vamos falar de PowerBI | @color[white](Extensão, Personalização)
 
 ![](https://dpspowerbi.blob.core.windows.net/powerbi-preview-media/pbiwebprod-docs.azurewebsites.net/hr-hr/documentation/articles/powerbi-custom-visuals-download-from-the-gallery/20160318083547/powerbi-visualsgallery.png)
 
+
+---?image=https://convertingcolors.com/plain-F2C80F.svg
+@snap[north-west]
+
+<br>
+
+Vamos falar de PowerBI | @color[white](Data Science with R)
+
+<br>
+
+@snapend
+
+<br>
+
+![](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c88b8f82970b-800wi)
+
+
 ---
 
 @snap[north-east]
