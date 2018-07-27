@@ -20,8 +20,10 @@ ___
 @color[#e49436](Entusiasta) Resolvedor de problemas
 
 Especialista em BI 
+<br>
 Aspirante a Data Science :)
-Casado, pai da Esther, Nerd por natureza, apaixonado por ficção cientifica, tecnologia... enfim mais coisas do que tenho horas no dia pra fazer.
+<br>
+
 @snapend
 
 ---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=40
