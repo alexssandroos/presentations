@@ -166,33 +166,12 @@ Vamos falar de PowerBI
 @snap[west]
 @ul
 - Preco
-- Self-Service BI
-- Democratização do BI
-- Big Data on Analytics
-- BI Móvel
+- Mobilidade
+- Melhoria continua
+- Comunidade forte
 @ulend
 @snapend
 
-
----
-
-@snap[north-east]
-@color[#40D9FF](Cenário)
-@snapend
-
-
----
-
-@snap[north-east]
-@color[#f2c80f](Desafios)
-@snapend
-
-
----
-
-@snap[north-east]
-@color[#f2c80f](Next Steps)
-@snapend
 
 ---?image=https://convertingcolors.com/plain-40D9FF.svg
 ### @color[white](Contato)
