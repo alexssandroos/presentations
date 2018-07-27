@@ -13,11 +13,13 @@ ___
 
 @snap[east bio]
 
-#### @size[0.6em](Alexssandro Oliveira)
+@size[0.6em](Alexssandro Oliveira)
 
 <br>
 
 @color[#e49436](Entusiasta) Resolvedor de problemas
+
+<br>
 
 Especialista em BI 
 
