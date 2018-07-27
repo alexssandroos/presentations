@@ -20,8 +20,11 @@ ___
 @color[#e49436](Entusiasta) Resolvedor de problemas
 
 Especialista em BI 
+
 <br>
+
 Aspirante a Data Science :)
+
 <br>
 
 @snapend
