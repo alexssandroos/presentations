@@ -11,6 +11,8 @@ ___
 <h4>Quem sou eu </h4>
 @snapend
 
+
+@snap[east bio]
 #### @size[0.6em](Alexssandro Oliveira)
 
 <br>
@@ -22,7 +24,7 @@ ___
 <p><b>Entusiasta resolvedor de problemas! :) </b></p>
 <p>Formado em Analise de Sistemas, MBA em BI, Especialização em Data Science em andamento.</p> 
 <p>Casado, pai da Esther, Nerd por natureza, apaixonado por ficção cientifica, tecnologia... enfim mais coisas do que tenho horas no dia pra fazer.</p>
-</div>
+@snapend
 
 ---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=40
 ### Business Intelligence
