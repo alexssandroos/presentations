@@ -110,7 +110,7 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 
 <br>
 
-Vamos falar de PowerBI | Curva de aprenzidado
+Vamos falar de PowerBI | @color[white](Curva de aprenzidado)
 
 <br>
 
@@ -125,7 +125,7 @@ Vamos falar de PowerBI | Curva de aprenzidado
 
 <br>
 
-Vamos falar de PowerBI | Extensão, Personalização 
+Vamos falar de PowerBI | @color[white](Extensão, Personalização)
 
 <br>
 
