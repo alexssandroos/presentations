@@ -13,7 +13,7 @@ ___
 
 @snap[east bio]
 
-## @size[0.9em](Alexssandro Oliveira)
+@size[3em](Alexssandro Oliveira)
 
 <br>
 
