@@ -5,12 +5,16 @@ ___
 ### DO BI AO DATA SCIENCE
 
 #### Se lambuzando na sopa de letrinhas
-
 ---
-<div class="left">
----?image=assets/img/alexssandroos_1505174890_893.jpg&size=35% 65%
-</div>
-<div class="right">
+---?image=assets/img/alexssandroos_1505174890_893.jpg&position=left&size=55% 100% 
+
+#### @size[0.6em](Alexssandro Oliveira)
+
+<br>
+
+## @color[#e49436](Entusiasta) Resolvedor de problemas
+#### Presentation @fa[magic] @color[#e49436](Magic)
+
   Alexssandro Oliveira
 <p><b>Entusiasta resolvedor de problemas! :) </b></p>
 <p>Formado em Analise de Sistemas, MBA em BI, Especialização em Data Science em andamento.</p> 
