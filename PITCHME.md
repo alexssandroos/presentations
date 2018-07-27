@@ -138,7 +138,7 @@ Vamos falar de PowerBI | @color[white](Extensão, Personalização)
 ---
 
 @snap[north-east]
-@color[#f2c80f](Cenário)
+@color[#40D9FF](Cenário)
 @snapend
 
 
@@ -165,7 +165,7 @@ Vamos falar de PowerBI | @color[white](Extensão, Personalização)
 ### Muito Obrigado :)
 
 ---
-# Referencias
+#### Referencias
 
 http://cio.com.br/opiniao/2015/04/06/seis-mitos-de-business-intelligence/
 
