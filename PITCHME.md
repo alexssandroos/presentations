@@ -56,11 +56,33 @@ Aspirante a Data Science :)
 De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na coleta dos dados presentes nas diversas fontes disponíveis, organização, análise , conversão em conhecimento e compartilhamento provendo suporte as decisões importantes para a organização.
 
 ---
+### BI
+#### Uma questão de sobrêvivencia
 
 ---?image=https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/40a4d2f9-4c70-47c7-9143-62f86f20e5d2.jpg&size=80% 80%
 
 @snap[north-east]
 @color[#f2c80f](Players de Mercado | Gartner)
+@snapend
+
+---
+
+@snap[north-east]
+@color[#f2c80f](Cenário)
+@snapend
+
+
+---
+
+@snap[north-east]
+@color[#f2c80f](Desafios)
+@snapend
+
+
+---
+
+@snap[north-east]
+@color[#f2c80f](Next Steps)
 @snapend
 
 ---
@@ -71,10 +93,3 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 
 ---
 ### Muito Obrigado :)
-
----
-### Referências
-
-https://help.pentaho.com/Documentation/7.1/Installation
-
-https://alexssandroos.github.io/blog/install-jdk-jre-oracle
