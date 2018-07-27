@@ -110,14 +110,30 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 
 <br>
 
-Vamos falar de PowerBI | CurVa de aprenzidado
+Vamos falar de PowerBI | Curva de aprenzidado
 
 <br>
 
 @snapend
 
-![](https://docs.microsoft.com/pt-br/power-bi/media/power-bi-visualization-best-practices/power-bi-page-view-before.png)
+<br>
 
+![](https://docs.microsoft.com/en-us/power-bi/guided-learning/includes/media/0-0-what-is-power-bi/c0a0_1.png)
+
+---?image=https://convertingcolors.com/plain-F2C80F.svg
+@snap[north-west]
+
+<br>
+
+Vamos falar de PowerBI | Extensão, Personalização 
+
+<br>
+
+@snapend
+
+<br>
+
+![](https://dpspowerbi.blob.core.windows.net/powerbi-preview-media/pbiwebprod-docs.azurewebsites.net/hr-hr/documentation/articles/powerbi-custom-visuals-download-from-the-gallery/20160318083547/powerbi-visualsgallery.png)
 
 ---
 
