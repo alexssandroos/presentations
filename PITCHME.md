@@ -1,6 +1,6 @@
 ---?image=https://www.peters.com/wp-content/uploads/2017/06/Power-BI-Apps-blog-800x359.png&opacity=20
 
-## POWERBI @color[f2c80f](TALKS) FORTALEZA
+## POWERBI @color[#f2c80f](TALKS) FORTALEZA
 ___
 ### DO BI AO DATA SCIENCE
 
