@@ -41,6 +41,15 @@ Aspirante a Data Science :)
 <br>
 @snapend
 
+@snap[west]
+@ul
+- O que é o BI
+- Quais os desafios 
+- Ferramentas de mercado
+- Onde entra a Ciência de Dados ?!
+@ulend
+@snapend
+
 ---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=40
 ### Business Intelligence
 
