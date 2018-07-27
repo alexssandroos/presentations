@@ -11,19 +11,17 @@ ___
 <h4>Quem sou eu </h4>
 @snapend
 
-
 @snap[east bio]
+
 #### @size[0.6em](Alexssandro Oliveira)
 
 <br>
 
-## @color[#e49436](Entusiasta) Resolvedor de problemas
-#### Presentation @fa[magic] @color[#e49436](Magic)
+@color[#e49436](Entusiasta) Resolvedor de problemas
 
-  Alexssandro Oliveira
-<p><b>Entusiasta resolvedor de problemas! :) </b></p>
-<p>Formado em Analise de Sistemas, MBA em BI, Especialização em Data Science em andamento.</p> 
-<p>Casado, pai da Esther, Nerd por natureza, apaixonado por ficção cientifica, tecnologia... enfim mais coisas do que tenho horas no dia pra fazer.</p>
+Especialista em BI 
+Aspirante a Data Science :)
+Casado, pai da Esther, Nerd por natureza, apaixonado por ficção cientifica, tecnologia... enfim mais coisas do que tenho horas no dia pra fazer.
 @snapend
 
 ---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=40
