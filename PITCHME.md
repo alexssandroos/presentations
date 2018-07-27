@@ -33,7 +33,7 @@ Aspirante a Data Science :)
 
 ---
 @snap[north-east]
-@color[#f2c80f](O que temos pra hoje ? )
+@fa[calendar](@color[#f2c80f](O que temos pra hoje ? ))
 @snapend
 
 ---?image=https://upstatebusinessjournal.com/wp-content/uploads/2018/03/business-intelligence-696x464.jpg&opacity=40
