@@ -25,7 +25,7 @@ Especialista em BI
 
 <br>
 
-Aspirante a Data Science :)
+Aspirante a Data Scientist :)
 
 <br>
 
@@ -57,7 +57,7 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 
 ---?image=https://convertingcolors.com/plain-F2C80F.svg
 ## BI
-### Uma questão de @color[white](sobrêvivencia)
+### Uma questão de @color[white](SOBREVIVENCIA)
 
 ---
 @snap[north-west]
@@ -152,6 +152,28 @@ Vamos falar de PowerBI | @color[white](Data Science with R)
 ![](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c88b8f82970b-800wi)
 
 
+---?image=https://convertingcolors.com/plain-F2C80F.svg
+@snap[north-west]
+
+<br>
+
+Vamos falar de PowerBI 
+
+<br>
+
+@snapend
+
+@snap[west]
+@ul
+- Preco
+- Self-Service BI
+- Democratização do BI
+- Big Data on Analytics
+- BI Móvel
+@ulend
+@snapend
+
+
 ---
 
 @snap[north-east]
@@ -172,13 +194,13 @@ Vamos falar de PowerBI | @color[white](Data Science with R)
 @color[#f2c80f](Next Steps)
 @snapend
 
----
-### Contato
+---?image=https://convertingcolors.com/plain-40D9FF.svg
+### @color[white](Contato)
 @fa[envelope-square] - alexssandroos@yahoo.com.br
 <br>
 @fa[linkedin] | @fa[github] | @fa[twitter-square] /alexssandroos
 
----
+---?image=https://convertingcolors.com/plain-40D9FF.svg
 ### Muito Obrigado :)
 
 ---
