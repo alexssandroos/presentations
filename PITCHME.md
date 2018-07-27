@@ -78,7 +78,25 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 @ulend
 @snapend
 
+---
+@snap[north-west]
 
+<br>
+
+@color[#f2c80f](Tendências)
+
+<br>
+@snapend
+
+@snap[west]
+@ul
+- Storytelling
+- Self-Service BI
+- Democratização do BI
+- Big Data on Analytics
+- BI Móvel
+@ulend
+@snapend
 
 ---?image=https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/40a4d2f9-4c70-47c7-9143-62f86f20e5d2.jpg&size=80% 80%
 
@@ -119,5 +137,7 @@ De maneira bem resumida pode-se afirmar que o Business Intelligence consiste na 
 # Referencias
 
 http://cio.com.br/opiniao/2015/04/06/seis-mitos-de-business-intelligence/
+
+https://blog.algartelecom.com.br/tecnologia/10-tendencias-de-bi-que-podem-transformar-o-seu-negocio/
 
 
